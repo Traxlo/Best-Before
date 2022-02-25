@@ -4,6 +4,7 @@ Best Before is an expiry date tracker. It warns you when your item's lifecycle i
 
 ## :globe_with_meridians: Hosted on
 [best-before.tech](http://best-before.tech/)
+Currently doesn't work
 
 ## :clapper: Demo 
 #### 1. Landing page
